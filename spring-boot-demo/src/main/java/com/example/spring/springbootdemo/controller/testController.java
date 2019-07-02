@@ -10,6 +10,8 @@ import com.example.spring.springbootdemo.domain.student;
 @RestController
 public class testController {
 	
+	welcome
+	
 	@RequestMapping(value="/test", method= RequestMethod.GET)
 	public String getData() {
 		String uri ="http://localhost:7001/tfs/catalog-mgmt/v1";
