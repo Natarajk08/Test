@@ -10,7 +10,7 @@ import com.example.spring.springbootdemo.domain.student;
 @RestController
 public class testController {
 	
-	welcome
+	welcomehghggugv
 	
 	@RequestMapping(value="/test", method= RequestMethod.GET)
 	public String getData() {
