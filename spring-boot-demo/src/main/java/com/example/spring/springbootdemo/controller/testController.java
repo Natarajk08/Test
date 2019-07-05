@@ -11,6 +11,9 @@ import com.example.spring.springbootdemo.domain.student;
 public class testController {
 	
 	welcomehghggugv
+	welcome
+	dfghjk
+	testedr
 	
 	@RequestMapping(value="/test", method= RequestMethod.GET)
 	public String getData() {
