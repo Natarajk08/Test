@@ -15,6 +15,7 @@ public class testController {
 	dfghjk
 	testedr
 	123456
+	asdfgh
 	
 	@RequestMapping(value="/test", method= RequestMethod.GET)
 	public String getData() {
